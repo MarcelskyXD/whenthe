@@ -27,12 +27,23 @@ no one uses mac lol
 
 
 Second: Clone the repo
-open your terminal or ~~cmd (on windows)~~ and type in: 
+open your terminal or git bash(on windows) and type in: 
 `git clone https://github.com/MarcelskyXD/whenthe.git`
 `cd whenthe`
+LEAVE GIT BASH OR YOUR TERMINAL OPEN FOR NOW
 
-Third: Run the program:
-Type in the following into your terminal
+Third: Run the program (Linux):
+Type in the following into your terminal:
 `cp ./whenthe /usr/bin/whenthe`
+
 `chmod +x /usr/bin/whenthe`
+
 `whenthe`
+Third: Run the program (Windows)
+Open the terminal window you left open when cloning the repo:
+type in `cd`
+copy the output
+then type in `start rundll32 sysdm.cpl,EditEnvironmentVariables`
+then find the Path variable, double click on it, press new and paste the output of that previous cmd command, press ok
+close your terminal
+open cmd and type in whenthe
