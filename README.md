@@ -21,7 +21,7 @@ Others:
 Use your distro's package manager to install Git.
 
 Mac
-no one uses mac lol
+`brew install git`
 
 
 
