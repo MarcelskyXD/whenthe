@@ -42,4 +42,4 @@ Type in the following into your terminal:
 
 
 running on windows:
-figure it out yourself
+run it under WSL
