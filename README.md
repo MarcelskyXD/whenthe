@@ -39,11 +39,7 @@ Type in the following into your terminal:
 `chmod +x /usr/bin/whenthe`
 
 `whenthe`
-Third: Run the program (Windows)
-Open the terminal window you left open when cloning the repo:
-type in `cd`
-copy the output
-then type in `start rundll32 sysdm.cpl,EditEnvironmentVariables`
-then find the Path variable, double click on it, press new and paste the output of that previous cmd command, press ok
-close your terminal
-open cmd and type in whenthe
+
+
+running on windows:
+figure it out yourself
