@@ -1,6 +1,6 @@
 # WHENTHEඞඞඞ
 sussy🈷️😳🥶 wussy
-
+Recommended: <a href=https://github.com/Amog-OS/AmogOS>AmogOS</a>
 ## How do i become susඞඞඞ?
 
 First: download Git
